@@ -18,11 +18,17 @@ A short summary of what was covered.
 Below are the commands I used to perform the activity. Trial and Error.
 
 > wget
+
 > man wget
+
 > wget [url]
+
 > wget [url] —page-requisites
+
 > wget [url] —page-requisites —rejected-log-rejects.log
+
 > wget [url] —page-requisites —rejected-log-rejects.log —span-hosts
+
 > wget [url] —page-requisites —rejected-log-rejects.log —span-hosts —convert-links
 
 And there's a part creating get.sh file. Below is the command structure:
